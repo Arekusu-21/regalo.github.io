@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+h1{
+    background-color: wheat;
+    margin: auto 50px 600px 50px;
+    border-radius: 25px;
+    padding: 6px 6px 6px 6px;
+    transition: 4s;
+}
+
 :root {
     --color-bg: linear-gradient(to top, #00d4ff, #000); 
     --line-color: linear-gradient(to left top, #82ff86 20%, #144425, #104e1c);
